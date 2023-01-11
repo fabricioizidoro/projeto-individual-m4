@@ -1,4 +1,4 @@
-s perguntas que fazemos ao elaborar o banco de dados são as seguintes:
+perguntas que fazemos ao elaborar o banco de dados são as seguintes:
 
 ⇨ Existem outras entidades além dessas três? ⇨ Quais são os principais campos e tipos? ⇨ Como essas entidades estão relacionadas?
 
